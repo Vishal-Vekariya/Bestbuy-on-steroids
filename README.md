@@ -331,9 +331,9 @@ The following table provides links to the Docker Hub repositories for each of th
 
 | **Service**        | **Docker Image Link**                                          |
 |--------------------|---------------------------------------------------------------|
-| Store-Front        | [Docker Image](https://hub.docker.com/r/vishalvekariya/store-front) |
-| Order-Service      | [Docker Image](https://hub.docker.com/r/vishalvekariya/order-service) |
-| Product-Service    | [Docker Image](https://hub.docker.com/r/vishalvekariya/product-service) |
-| Makeline-Service   | [Docker Image](https://hub.docker.com/r/vishalvekariya/makeline-service) |
-| Store-Admin        | [Docker Image](https://hub.docker.com/r/vishalvekariya/store-admin) |
-| Ai-Service         | [Docker Image](https://hub.docker.com/r/vishalvekariya/ai-service) |
+| Store-Front        | [vishalvekariya/store-front](https://hub.docker.com/r/vishalvekariya/store-front) |
+| Order-Service      | [vishalvekariya/order-service](https://hub.docker.com/r/vishalvekariya/order-service) |
+| Product-Service    | [vishalvekariya/product-service](https://hub.docker.com/r/vishalvekariya/product-service) |
+| Makeline-Service   | [vishalvekariya/makeline-service](https://hub.docker.com/r/vishalvekariya/makeline-service) |
+| Store-Admin        | [vishalvekariya/store-admin](https://hub.docker.com/r/vishalvekariya/store-admin) |
+| Ai-Service         | [vishalvekariya/ai-service](https://hub.docker.com/r/vishalvekariya/ai-service) |
