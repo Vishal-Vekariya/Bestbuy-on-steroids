@@ -22,7 +22,7 @@ This project involves designing, building, and deploying a cloud-native applicat
 
 ### Architecture Diagram
 
-![Application Architecture Diagram](./)
+![diagram](assets/Algonquin%20Pet%20Store%20On%20Steroids.png)
 
 ### Application and Architecture Explanation
 
