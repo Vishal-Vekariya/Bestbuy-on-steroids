@@ -28,9 +28,9 @@ spec:
             - name: AZURE_OPENAI_DEPLOYMENT_NAME # required if using Azure OpenAI
               value: "gpt-4"
             - name: AZURE_OPENAI_ENDPOINT # required if using Azure OpenAI
-              value: "https://aiforbestbuy.openai.azure.com/"
+              value: "https://veka0-m4lx8s9i-australiaeast.cognitiveservices.azure.com/"
             - name: AZURE_OPENAI_DALLE_ENDPOINT
-              value: "https://aiforbestbuy.openai.azure.com/"
+              value: "https://veka0-m4lx8s9i-australiaeast.cognitiveservices.azure.com/"
             - name: AZURE_OPENAI_DALLE_DEPLOYMENT_NAME
               value: "dall-e-3"
             - name: OPENAI_API_KEY # always required
