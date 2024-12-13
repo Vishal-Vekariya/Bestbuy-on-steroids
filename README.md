@@ -22,7 +22,7 @@ This project involves designing, building, and deploying a cloud-native applicat
 
 ### Architecture Diagram
 
-![diagram](assets/Algonquin%20Pet%20Store%20On%20Steroids.png)
+![Application Architecture Diagram](./)
 
 ### Application and Architecture Explanation
 
@@ -39,6 +39,10 @@ The application consists of multiple microservices, each handling a specific fun
 The architecture ensures a seamless flow of data between customers, employees, and backend services. It emphasizes scalability, modularity, and real-time updates to meet the high demands of an eCommerce platform.
 
 ---
+
+## Demo Video Link
+[Video link](https://youtu.be/WhJdpwtWGKg?si=es50H7y3S1CeLW4k)
+
 ### Deployment Instrunction 
 
 ## Step 1: Clone the BestBuy Repository
@@ -277,6 +281,12 @@ kubectl get pods
 
 - Login with the default credentials (`username`/`password`).
 
+![Screenshot (1067)](https://github.com/user-attachments/assets/4593fd54-7ceb-45a1-8bbf-38d67f642631)
+![Screenshot (1068)](https://github.com/user-attachments/assets/1729a540-0fad-4882-9796-fff7c1b6eb97)
+![Screenshot (1069)](https://github.com/user-attachments/assets/08f805a5-ee0a-4940-94c2-a1b0a990e402)
+![Screenshot (1072)](https://github.com/user-attachments/assets/8f2b7822-149f-4ef3-8bea-472b345631fc)
+![Screenshot (1066)](https://github.com/user-attachments/assets/baaa30d5-96c2-492a-8003-309299f9bdd3)
+
 ### MongoDB Shell Access and Database Exploration
 In this section, you will use the MongoDB shell to interact with the `orderdb` database, which stores order information for the Best Buy application. Follow the steps below to connect to the MongoDB pod and explore its contents.
 
@@ -331,9 +341,21 @@ The following table provides links to the Docker Hub repositories for each of th
 
 | **Service**        | **Docker Image Link**                                          |
 |--------------------|---------------------------------------------------------------|
-| Store-Front        | [vishalvekariya/store-front](https://hub.docker.com/r/vishalvekariya/store-front) |
-| Order-Service      | [vishalvekariya/order-service](https://hub.docker.com/r/vishalvekariya/order-service) |
-| Product-Service    | [vishalvekariya/product-service](https://hub.docker.com/r/vishalvekariya/product-service) |
-| Makeline-Service   | [vishalvekariya/makeline-service](https://hub.docker.com/r/vishalvekariya/makeline-service) |
-| Store-Admin        | [vishalvekariya/store-admin](https://hub.docker.com/r/vishalvekariya/store-admin) |
-| Ai-Service         | [vishalvekariya/ai-service](https://hub.docker.com/r/vishalvekariya/ai-service) |
+| Store-Front        | [Docker Image](https://hub.docker.com/r/vishalvekariya/store-front) |
+| Order-Service      | [Docker Image](https://hub.docker.com/r/vishalvekariya/order-service) |
+| Product-Service    | [Docker Image](https://hub.docker.com/r/vishalvekariya/product-service) |
+| Makeline-Service   | [Docker Image](https://hub.docker.com/r/vishalvekariya/makeline-service) |
+| Store-Admin        | [Docker Image](https://hub.docker.com/r/vishalvekariya/store-admin) |
+| Ai-Service         | [Docker Image](https://hub.docker.com/r/vishalvekariya/ai-service) |
+
+## Demo Video Link
+[Video link](https://youtu.be/WhJdpwtWGKg?si=es50H7y3S1CeLW4k)
+
+# CI/CD pipeline issue:
+
+### I followed all the steps outlined in Lab 9, but the CI/CD pipeline isn’t working as expected. I’ve attached screenshots to show the issue and my configuration.
+
+![Screenshot (1077)](https://github.com/user-attachments/assets/6db89d3a-cbe6-4bf0-a858-90c6844af40e)
+![Screenshot (1074)](https://github.com/user-attachments/assets/cd20e3ef-42cd-429c-b637-942a9ab653e4)
+![Screenshot (1075)](https://github.com/user-attachments/assets/958cfc9b-a3f0-474d-873a-866975230a67)
+![Screenshot (1076)](https://github.com/user-attachments/assets/ca9f078a-bdce-4649-b1a9-6e951b646c5e)
