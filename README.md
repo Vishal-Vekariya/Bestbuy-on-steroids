@@ -22,7 +22,7 @@ This project involves designing, building, and deploying a cloud-native applicat
 
 ### Architecture Diagram
 
-![Application Architecture Diagram](./)
+![bestbuy](https://github.com/user-attachments/assets/4cb398e7-affb-408d-9160-fe43910cb90a)
 
 ### Application and Architecture Explanation
 
