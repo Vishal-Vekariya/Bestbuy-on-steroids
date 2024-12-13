@@ -41,7 +41,7 @@ The architecture ensures a seamless flow of data between customers, employees, a
 ---
 
 ## Demo Video Link
-[Video link](https://youtu.be/WhJdpwtWGKg?si=es50H7y3S1CeLW4k)
+[Video link](https://youtu.be/W4CY1zqaedM?si=x-Tu4hPBeE7Bw0K4)
 
 ### Deployment Instrunction 
 
@@ -349,7 +349,7 @@ The following table provides links to the Docker Hub repositories for each of th
 | Ai-Service         | [Docker Image](https://hub.docker.com/r/vishalvekariya/ai-service) |
 
 ## Demo Video Link
-[Video link](https://youtu.be/WhJdpwtWGKg?si=es50H7y3S1CeLW4k)
+[Video link](https://youtu.be/W4CY1zqaedM?si=x-Tu4hPBeE7Bw0K4)
 
 # CI/CD pipeline issue:
 
